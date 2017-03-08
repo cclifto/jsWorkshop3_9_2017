@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.drawingContainer {
+  width: 725px;
+  margin: 0 auto;
+}
+
+.box {
+  width: 35px;
+  height: 35px;
+  border: 1px solid black;
+  display: inline-block;  
+}
